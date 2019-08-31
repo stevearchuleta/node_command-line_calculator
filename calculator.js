@@ -94,3 +94,9 @@ function parseAlgebra(equation) {
   }
   return result;
 }
+
+
+// node calculator.js 6 12
+// node calculator.js 4 3
+// node calculator.js 3x+9=17
+// node calculator.js 16x*5=314
